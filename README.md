@@ -10,6 +10,6 @@
 
 <body>
     <p align="justify">
-         Ingeniero de Ejecución en Computación e Informática, con interés en el área de Redes y Servicios. Manejo de herramientas open source y entornos Linux, con conocimientos en configuración de redes, documentación básica de auditorías de seguridad informática y análisis técnico de vulnerabilidades. Experiencia en el desarrollo de herramientas propias utilizando Python y tecnologías web, orientadas a la automatización y fortalecimiento de sistemas. Comprometido con el aprendizaje continuo y la creación de espacios de alfabetización digital.
+         Ingeniero de Ejecución en Computación e Informática, con interés en el área de Redes y Servicios. Manejo de herramientas open source y entornos Linux, con conocimientos en configuración de redes, documentación básica de auditorías de seguridad informática y análisis técnico de vulnerabilidades. Experiencia en el desarrollo de herramientas propias utilizando Python y tecnologías web, orientadas a la automatización y fortalecimiento de sistemas. 
   </p>
 </body>
