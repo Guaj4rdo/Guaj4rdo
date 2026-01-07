@@ -2,8 +2,6 @@
 <h1  align="center">PORTAFOLIO </h1>
 
   <!-- Profile Picture -->
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjam%C3%ADn-guajardo-herrera-76a592252/)![Discord Badge](https://img.shields.io/badge/aghbenjamin-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
 
 <img align="left" height="200" src="https://github.com/BenjaminAGH/BenjaminAGH/blob/main/DSC_0382.JPG"/>
 <h3><b>SOBRE MÍ</b></h3>
