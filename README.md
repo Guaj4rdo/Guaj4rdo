@@ -3,7 +3,7 @@
 
   <!-- Profile Picture -->
 
-<img align="left" height="200" src="https://github.com/BenjaminAGH/BenjaminAGH/blob/main/DSC_0382.JPG"/>
+<img align="left" height="200" src=""/>
 <h3><b>SOBRE MÍ</b></h3>
 
 <body>
