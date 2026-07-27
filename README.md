@@ -2,8 +2,6 @@
 <h1  align="center">PORTAFOLIO </h1>
 
   <!-- Profile Picture -->
-
-<img align="left" height="200" src=""/>
 <h3><b>SOBRE MÍ</b></h3>
 
 <body>
